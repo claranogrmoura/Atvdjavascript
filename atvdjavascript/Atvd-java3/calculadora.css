@@ -1,0 +1,9 @@
+body{
+    background-color: beige;
+}
+.calculadora {
+    border: 5px solid orange;
+    padding: 20px;
+    text-align: justify;
+    margin-right: 50%;
+}
